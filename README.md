@@ -4,7 +4,7 @@
 </div>
 
 ---
-### 👨‍💻 I am Jayson, a Junior Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### 👨‍💻 I am Jayson, a Junior Software Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I’m a computer science graduate looking to pursue a career in Data Science. 
 - :seedling: Exploring different ways of solving the same problem
