@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Jayson%20Lee&fontSize=52&fontAlignY=36&desc=CS%20Graduate%20%7C%20Python%20Developer%20%7C%20Telecoms%20%26%20Systems&descAlignY=58&descSize=18&fontColor=fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#bg)" rx="0"/>
+  <polygon points="0,140 1200,100 1200,180 0,180" fill="rgba(99,102,241,0.15)"/>
+  <polygon points="0,160 1200,120 1200,180 0,180" fill="rgba(99,102,241,0.1)"/>
+  <text x="600" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" fill="white" text-anchor="middle" letter-spacing="2">Jayson Lee</text>
+  <text x="600" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="rgba(199,210,254,0.85)" text-anchor="middle" letter-spacing="1">CS Graduate · Python Developer · Telecoms &amp; Systems</text>
+</svg>
 
 </div>
 
@@ -76,6 +89,17 @@ I'm a Computer Science graduate (BSc 2:1, Lancaster University) with hands-on pr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="100%">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <polygon points="0,0 1200,40 1200,0" fill="rgba(99,102,241,0.15)"/>
+  <polygon points="0,0 1200,20 1200,0" fill="rgba(99,102,241,0.1)"/>
+  <rect y="40" width="1200" height="40" fill="url(#bg2)"/>
+</svg>
 
 </div>
