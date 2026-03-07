@@ -70,7 +70,7 @@ I'm a Computer Science graduate (BSc 2:1, Lancaster University) with hands-on pr
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayson%20Lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaysonleecompsci/)
-[![Upwork](https://img.shields.io/badge/Upwork-Available%20for%20Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]([https://www.upwork.com](https://www.upwork.com/freelancers/~0192a376eb674c979d?viewMode=1))
+[![Upwork](https://img.shields.io/badge/Upwork-Available%20for%20Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0192a376eb674c979d?viewMode=1)
 
 </div>
 
