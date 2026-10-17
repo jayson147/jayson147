@@ -21,7 +21,7 @@
 
 ### 👋 About Me
 
-I'm a Computer Science graduate (BSc 2:1, Lancaster University) with hands-on professional experience across **data centre infrastructure** and **telecoms operations**. I build practical, well-documented software — from cryptographic primitives to data pipelines to automation tooling.
+Computer Science graduate (2:1, Lancaster) completing an NCSC-certified MSc in Cybersecurity at UWE Bristol, with **18 months of commercial experience** across cloud **data centre operations at Iomart Group (Atech)** and **enterprise managed services at Gamma Communications**.
 
 - 🏢 Previously at **Iomart** (Data Centre Engineer) and **Gamma Communications** (UCaaS Support Technician)
 - 🐍 Most comfortable in **Python** — automation, data analysis, and algorithm work
